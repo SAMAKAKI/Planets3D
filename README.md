@@ -1,3 +1,22 @@
+# Planets 3D or Solar System in 3D + ThreeJs
+
+This is a simple "art" about Solar System in 3D. This art is scaled to **1:1000000000**. In this version Solar System are 9 planets (Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune and Pluto) and sun.
+
+Useful packages:
+ - [@react-three/drei](https://www.npmjs.com/package/@react-three/drei/v/9.0.1)
+ - [@react-three/fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
+ - [three](https://www.npmjs.com/package/three)
+ - [tailwindcss](https://tailwindcss.com/)
+
+Useful websites:
+ - [cgtrader](https://www.cgtrader.com/free-3d-models) free 3d models
+ - [three.js](https://threejs.org/docs/) documentation
+ - [pmndrs](https://docs.pmnd.rs/) documentation about React Three Fiber and React Three Drei
+
+## Images demo
+![Solar System](solarSystem.png)
+![Solar System Info](solarSystemInfo.png)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
